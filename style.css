@@ -1,9 +1,23 @@
 body {
     color:black;
-    background-color: darkgray;
+    background-color: burlywood;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-a {
-    color: blue;
+.title{
+    text-align: center;
 }
+
+.card{
+    width: 300px;
+    margin: auto;
+}
+
+.menu {
+    display: block;
+    padding: 30px;
+    text-align: center;
+    margin: 8px;
+    background-color: darkgray;
+  }
+
